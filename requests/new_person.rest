@@ -1,7 +1,7 @@
-POST http://fullstack-persons2018.herokuapp.com/api/persons
+POST http://localhost:3001/api/persons
 content-type: application/json
 
 {
-    "name": "Juho Lankanen",
+    "name": "Juha Kuikka",
     "number": "040-123456"
 }
